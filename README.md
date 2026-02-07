@@ -2,7 +2,7 @@ Air Quality Monitor 🌍
 
 This project is a web application that helps users check air quality levels for different cities.  
 It shows pollution details like PM2.5 concentration along with air quality status such as Good, Moderate, or Poor.  
-The goal of this project is to make air pollution data easy to understand using a simple and clean interfa
+The goal of this project is to make air pollution data easy to understand using a simple and clean interface
 
 1.What this project does
 - Allows users to search air quality by city name  
