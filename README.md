@@ -20,4 +20,4 @@ The goal of this project is to make air pollution data easy to understand using 
 3. Project Screenshot
 Below is a screenshot of the application running locally:
 
-![Air Quality Monitor Screenshot](AIQ.png)
+![Air Quality Monitor Screenshot](AIQ.png.png)
