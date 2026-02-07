@@ -32,7 +32,7 @@ The goal of this project is to make air pollution data easy to understand using 
 4. Project Screenshot
 Below is a screenshot of the application running locally:
 
-![Air Quality Monitor](Screenshots/AIQ.png.png)
+![Air Quality Monitor](Screenshots/AIQ1.png)
 
 5.Author
 Tabitha Battula 
