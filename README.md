@@ -15,9 +15,26 @@ The goal of this project is to make air pollution data easy to understand using 
 - *Frontend:* Vite, HTML, CSS, JavaScript  
 - *Backend:* Python with FastAPI  
 - *APIs:* Air quality / pollution data APIs  
-- *Maps & Visualization:* Interactive map layers  
+- *Maps & Visualization:* Interactive map layers
 
-3. Project Screenshot
+3.How to Use
+
+1. Clone or download the repository from GitHub.
+2. Make sure Python is installed on your system.
+3. Install the required dependencies using:
+   pip install -r requirements.txt
+4. Run the backend server:
+   python main.py
+5. Open the browser and go to:
+   http://localhost:5174
+6. Search for a city to view real-time air quality data.
+
+4. Project Screenshot
 Below is a screenshot of the application running locally:
 
-![Air Quality Monitor Screenshot](AIQ.png.png)
+![Air Quality Monitor Screenshot](AIQ.png)
+
+5.Author
+Tabitha Battula 
+Final Year Student  
+GitHub: https://github.com/TabithaBattula
