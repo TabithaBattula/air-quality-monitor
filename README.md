@@ -41,6 +41,11 @@ Below is a screenshot of the application running locally:
 ![Air Quality Monitor](AIQ1.png)
 
 5.Author
-Tabitha Battula 
+satwika
+sahiyaja 
+navya
+Jyothi 
+Tabitha
+
 Final Year Student  
 GitHub: https://github.com/TabithaBattula
